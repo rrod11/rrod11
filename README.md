@@ -17,7 +17,8 @@
   </a>  
 - ⚡ Fun fact: Before the apex changed its ranking system Id be platinum 1 every season...
 
-* Languages I Know:
+# Languages I Know:
+ <p align="left">
   <a href="#">
     <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -27,7 +28,8 @@
     <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
-* Services I Use:
+ </p>
+# Services I Use:
    <a href="#">
     <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   </a> 
