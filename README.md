@@ -30,6 +30,7 @@
   </a>
  </p>
 # Services I Use:
+ <p align="left">
    <a href="#">
     <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -58,8 +59,10 @@
     <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
+  </p>
 
-* Devices I Use:
+# Devices I Use:
+*  <p align="left">
   <a href="#">
     <img src="svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -70,13 +73,17 @@
     <a href="#">
     <img src="svg/devices/nintendo.svg" alt="nintendo" style="vertical-align:top; margin:6px 4px">
   </a>  
+  </p>
 
-  * How I Game:
+# How I Game:
+<p align="left">
     <a href="#">
     <img src="svg/devices/playstation.svg" alt="playstation" style="vertical-align:top; margin:6px 4px">
   </a>
+</p>
 
-*Social Media I Possess: 
+# Social Media I Possess: 
+ <p align="left">
  <a href="#">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -95,9 +102,8 @@
    <a href="#">
     <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>  
+ </p>
 <!--
 **rrod11/rrod11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
--->
