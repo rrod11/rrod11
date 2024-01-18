@@ -16,7 +16,7 @@
     <img src="svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
   </a>  
 - ⚡ Fun fact: Before the apex changed its ranking system Id be platinum 1 every season...
-
+<!--
 # Languages I Know:
  <p align="left">
   <a href="#">
@@ -46,7 +46,7 @@
     <a href="#">
     <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
   </a> 
-
+<1--
   <a href="#">
     <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -60,13 +60,13 @@
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
   </p>
-
+<!--
 # Devices I Use:
 *  <p align="left">
   <a href="#">
     <img src="svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:6px 4px">
   </a>  
-
+<!--
   <a href="#">
     <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -74,14 +74,14 @@
     <img src="svg/devices/nintendo.svg" alt="nintendo" style="vertical-align:top; margin:6px 4px">
   </a>  
   </p>
-
+<!--
 # How I Game:
 <p align="left">
     <a href="#">
     <img src="svg/devices/playstation.svg" alt="playstation" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
-
+<!--
 # Social Media I Possess: 
  <p align="left">
  <a href="#">
